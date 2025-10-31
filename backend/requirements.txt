@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-dotenv
+earthengine-api
+numpy
+opencv-python-headless
+moviepy
+rasterio
+Pillow
+aiofiles
+requests
